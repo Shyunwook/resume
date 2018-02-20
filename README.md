@@ -8,6 +8,7 @@ content in the first column | content in the second column
 
 <html>
   <body>
-    <h1>asdfdsf</h1>
+    <h1 style="color:red">asdfdsf</h1>
+
   </body>
 </html>
